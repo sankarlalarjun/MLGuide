@@ -12,3 +12,9 @@ Contains material to ML/DL materials
 1.  https://www.coursera.org/specializations/deep-learning
 2.  https://machinelearningmastery.com/what-is-deep-learning/
 3.  https://www.3blue1brown.com/neural-networks
+
+**Python Resources**
+1.  https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU
+2.  https://www.geeksforgeeks.org/python-programming-language/
+3.  https://www.sololearn.com/Course/Python/
+4.  https://www.tutorialspoint.com/python/index.htm
