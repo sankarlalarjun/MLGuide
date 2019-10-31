@@ -18,3 +18,9 @@ Contains material to ML/DL materials
 2.  https://www.geeksforgeeks.org/python-programming-language/
 3.  https://www.sololearn.com/Course/Python/
 4.  https://www.tutorialspoint.com/python/index.htm
+
+**Important Open source libraries for NLP**
+1.  Spacy
+2.  Scikit-Learn
+3.  Allennlp
+4.  Transformers
